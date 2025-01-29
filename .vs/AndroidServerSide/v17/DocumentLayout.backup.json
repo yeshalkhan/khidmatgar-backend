@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Yeshal\\Semester 6\\Mobile Application Development\\Khidmatgar Server Side\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{240593C2-F79D-448C-8AB1-5E3EE0272E37}|AndroidServerSide\\AndroidServerSide.csproj|d:\\yeshal\\semester 6\\mobile application development\\khidmatgar server side\\androidserverside\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240593C2-F79D-448C-8AB1-5E3EE0272E37}|AndroidServerSide\\AndroidServerSide.csproj|solutionrelative:androidserverside\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/KhidmatgarDb/True/SqlTable/dbo.ServiceProviders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/KhidmatgarDb/True/SqlTable/dbo.Bookings.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240593C2-F79D-448C-8AB1-5E3EE0272E37}|AndroidServerSide\\AndroidServerSide.csproj|d:\\yeshal\\semester 6\\mobile application development\\khidmatgar server side\\androidserverside\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240593C2-F79D-448C-8AB1-5E3EE0272E37}|AndroidServerSide\\AndroidServerSide.csproj|solutionrelative:androidserverside\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240593C2-F79D-448C-8AB1-5E3EE0272E37}|AndroidServerSide\\AndroidServerSide.csproj|d:\\yeshal\\semester 6\\mobile application development\\khidmatgar server side\\androidserverside\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240593C2-F79D-448C-8AB1-5E3EE0272E37}|AndroidServerSide\\AndroidServerSide.csproj|solutionrelative:androidserverside\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240593C2-F79D-448C-8AB1-5E3EE0272E37}|AndroidServerSide\\AndroidServerSide.csproj|d:\\yeshal\\semester 6\\mobile application development\\khidmatgar server side\\androidserverside\\repositories\\genericrepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240593C2-F79D-448C-8AB1-5E3EE0272E37}|AndroidServerSide\\AndroidServerSide.csproj|solutionrelative:androidserverside\\repositories\\genericrepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240593C2-F79D-448C-8AB1-5E3EE0272E37}|AndroidServerSide\\AndroidServerSide.csproj|d:\\yeshal\\semester 6\\mobile application development\\khidmatgar server side\\androidserverside\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240593C2-F79D-448C-8AB1-5E3EE0272E37}|AndroidServerSide\\AndroidServerSide.csproj|solutionrelative:androidserverside\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240593C2-F79D-448C-8AB1-5E3EE0272E37}|AndroidServerSide\\AndroidServerSide.csproj|d:\\yeshal\\semester 6\\mobile application development\\khidmatgar server side\\androidserverside\\controllers\\serviceprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240593C2-F79D-448C-8AB1-5E3EE0272E37}|AndroidServerSide\\AndroidServerSide.csproj|solutionrelative:androidserverside\\controllers\\serviceprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240593C2-F79D-448C-8AB1-5E3EE0272E37}|AndroidServerSide\\AndroidServerSide.csproj|d:\\yeshal\\semester 6\\mobile application development\\khidmatgar server side\\androidserverside\\models\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240593C2-F79D-448C-8AB1-5E3EE0272E37}|AndroidServerSide\\AndroidServerSide.csproj|solutionrelative:androidserverside\\models\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240593C2-F79D-448C-8AB1-5E3EE0272E37}|AndroidServerSide\\AndroidServerSide.csproj|d:\\yeshal\\semester 6\\mobile application development\\khidmatgar server side\\androidserverside\\models\\serviceproviderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240593C2-F79D-448C-8AB1-5E3EE0272E37}|AndroidServerSide\\AndroidServerSide.csproj|solutionrelative:androidserverside\\models\\serviceproviderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Huzaifa\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\K1GHM2WV\\Booking[1].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Huzaifa\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\K1GHM2WV\\Users[1].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Huzaifa\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\K1GHM2WV\\ServiceProviders[1].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.ServiceProviders.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/KhidmatgarDb/True/SqlTable/dbo.ServiceProviders.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/KhidmatgarDb/True/SqlTable/dbo.ServiceProviders.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-10T15:27:19.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Yeshal\\Semester 6\\Mobile Application Development\\Khidmatgar Server Side\\AndroidServerSide\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AndroidServerSide\\DbContexts\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Yeshal\\Semester 6\\Mobile Application Development\\Khidmatgar Server Side\\AndroidServerSide\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AndroidServerSide\\DbContexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:22:56.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericRepositoy.cs",
+              "DocumentMoniker": "D:\\Yeshal\\Semester 6\\Mobile Application Development\\Khidmatgar Server Side\\AndroidServerSide\\Repositories\\GenericRepositoy.cs",
+              "RelativeDocumentMoniker": "AndroidServerSide\\Repositories\\GenericRepositoy.cs",
+              "ToolTip": "D:\\Yeshal\\Semester 6\\Mobile Application Development\\Khidmatgar Server Side\\AndroidServerSide\\Repositories\\GenericRepositoy.cs",
+              "RelativeToolTip": "AndroidServerSide\\Repositories\\GenericRepositoy.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:20:04.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "D:\\Yeshal\\Semester 6\\Mobile Application Development\\Khidmatgar Server Side\\AndroidServerSide\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "AndroidServerSide\\Repositories\\BookingRepository.cs",
+              "ToolTip": "D:\\Yeshal\\Semester 6\\Mobile Application Development\\Khidmatgar Server Side\\AndroidServerSide\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "AndroidServerSide\\Repositories\\BookingRepository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T21:32:04.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\Yeshal\\Semester 6\\Mobile Application Development\\Khidmatgar Server Side\\AndroidServerSide\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "AndroidServerSide\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\Yeshal\\Semester 6\\Mobile Application Development\\Khidmatgar Server Side\\AndroidServerSide\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "AndroidServerSide\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAALsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:09:57.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Bookings.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/KhidmatgarDb/True/SqlTable/dbo.Bookings.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/KhidmatgarDb/True/SqlTable/dbo.Bookings.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-10T08:44:15.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Yeshal\\Semester 6\\Mobile Application Development\\Khidmatgar Server Side\\AndroidServerSide\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AndroidServerSide\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Yeshal\\Semester 6\\Mobile Application Development\\Khidmatgar Server Side\\AndroidServerSide\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AndroidServerSide\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:45:59.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceProviderController.cs",
+              "DocumentMoniker": "D:\\Yeshal\\Semester 6\\Mobile Application Development\\Khidmatgar Server Side\\AndroidServerSide\\Controllers\\ServiceProviderController.cs",
+              "RelativeDocumentMoniker": "AndroidServerSide\\Controllers\\ServiceProviderController.cs",
+              "ToolTip": "D:\\Yeshal\\Semester 6\\Mobile Application Development\\Khidmatgar Server Side\\AndroidServerSide\\Controllers\\ServiceProviderController.cs",
+              "RelativeToolTip": "AndroidServerSide\\Controllers\\ServiceProviderController.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAAALAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:10:03.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingDTO.cs",
+              "DocumentMoniker": "D:\\Yeshal\\Semester 6\\Mobile Application Development\\Khidmatgar Server Side\\AndroidServerSide\\Models\\BookingDTO.cs",
+              "RelativeDocumentMoniker": "AndroidServerSide\\Models\\BookingDTO.cs",
+              "ToolTip": "D:\\Yeshal\\Semester 6\\Mobile Application Development\\Khidmatgar Server Side\\AndroidServerSide\\Models\\BookingDTO.cs",
+              "RelativeToolTip": "AndroidServerSide\\Models\\BookingDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:12:51.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceProviderDTO.cs",
+              "DocumentMoniker": "D:\\Yeshal\\Semester 6\\Mobile Application Development\\Khidmatgar Server Side\\AndroidServerSide\\Models\\ServiceProviderDTO.cs",
+              "RelativeDocumentMoniker": "AndroidServerSide\\Models\\ServiceProviderDTO.cs",
+              "ToolTip": "D:\\Yeshal\\Semester 6\\Mobile Application Development\\Khidmatgar Server Side\\AndroidServerSide\\Models\\ServiceProviderDTO.cs",
+              "RelativeToolTip": "AndroidServerSide\\Models\\ServiceProviderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:53:36.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Users[1].cs",
+              "DocumentMoniker": "C:\\Users\\Huzaifa\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\K1GHM2WV\\Users[1].cs",
+              "ToolTip": "C:\\Users\\Huzaifa\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\K1GHM2WV\\Users[1].cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T04:53:53.022Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceProviders[1].cs",
+              "DocumentMoniker": "C:\\Users\\Huzaifa\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\K1GHM2WV\\ServiceProviders[1].cs",
+              "ToolTip": "C:\\Users\\Huzaifa\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\K1GHM2WV\\ServiceProviders[1].cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T04:53:22.842Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Booking[1].cs",
+              "DocumentMoniker": "C:\\Users\\Huzaifa\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\K1GHM2WV\\Booking[1].cs",
+              "ToolTip": "C:\\Users\\Huzaifa\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\K1GHM2WV\\Booking[1].cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T04:52:15.525Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

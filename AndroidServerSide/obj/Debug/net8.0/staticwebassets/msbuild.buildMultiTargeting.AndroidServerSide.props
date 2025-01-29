@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AndroidServerSide.props" />
+</Project>
